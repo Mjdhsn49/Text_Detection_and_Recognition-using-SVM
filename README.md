@@ -1,7 +1,7 @@
 # Overview
 This project is upon Text detection and Recognition using Support vector machine algorithm.
 
-# Software required:
+# Software required
 * Matlab
 
 # Run
