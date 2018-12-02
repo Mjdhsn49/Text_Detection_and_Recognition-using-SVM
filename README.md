@@ -6,5 +6,5 @@ This project is upon Text detection and Recognition using Support vector machine
 
 # Run
 * clone the repository
-* open the directory and run the text_recognition.m file
+* open the directory and run the main file (text_recognition.m file)
 
